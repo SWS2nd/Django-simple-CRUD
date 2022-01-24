@@ -22,23 +22,18 @@ A person who strives to become a DL backend developer.</h3>
 
 <h2>Screen Layout</h2>
 
-<h4>1. Login Page</h4>
-<img src='https://user-images.githubusercontent.com/17736865/150705021-e4818f46-073e-412b-952f-4bb408b77e76.png'>
+<h4>1. Main</h4>
+<img src='https://user-images.githubusercontent.com/17736865/150724622-12ef2b6c-276f-4738-b8c7-68b5e8c18b76.png'>
 
-<h4>2. Register Page</h4>
-<img src='https://user-images.githubusercontent.com/17736865/150705133-0e4a4ff3-54bf-4dbf-b889-91e0cda8828e.png'>
+<h4>2. Create</h4>
+<img src='https://user-images.githubusercontent.com/17736865/150724746-3cdb7628-2323-448e-bf49-75c4ccb2f97c.png'>
 
-<h4>3. Main Page</h4>
-<img src='https://user-images.githubusercontent.com/17736865/150705679-fe8b6832-3b2e-4945-9685-60f742160356.png'>
+<h4>3. Read</h4>
+<img src='https://user-images.githubusercontent.com/17736865/150724841-35e25380-ad97-4d18-8c9c-d9e41bbcb321.png'>
 
-<h4>4. Tweet Page</h4>
-<img src='https://user-images.githubusercontent.com/17736865/150705736-6b63e62e-6972-4dcc-92b7-3639d2586ac7.png'>
+<h4>4. Update</h4>
+<img src='https://user-images.githubusercontent.com/17736865/150725001-6fd40924-aaa3-4692-b5b4-aa0928bfeb2f.png'>
+<img src='https://user-images.githubusercontent.com/17736865/150725058-394d1b21-fc1e-4702-a5e1-573ca5da5c89.png'>
 
-<h4>5. Friends Page</h4>
-<img src='https://user-images.githubusercontent.com/17736865/150705780-8f18337e-b1c3-41b6-8546-bf69e6e58be9.png'>
-
-<h4>6. Tag Cloud</h4>
-<img src='https://user-images.githubusercontent.com/17736865/150705831-00d91f0f-072d-47a1-8307-829e0e1bf188.png'>
-
-<h4>7. Tag Page</h4>
-<img src='https://user-images.githubusercontent.com/17736865/150705883-38a79417-849c-4e98-b404-12399ffb6a1c.png'>
+<h4>4. After Delete</h4>
+<img src='https://user-images.githubusercontent.com/17736865/150725116-4b67a101-7e68-41da-8f5e-c4e39d558c90.png'>
